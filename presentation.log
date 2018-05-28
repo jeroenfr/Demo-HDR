@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.5.25)  28 MAY 2018 11:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.5.25)  28 MAY 2018 11:30
 entering extended mode
 **./presentation.tex
 (presentation.tex
@@ -1253,10 +1253,15 @@ Dictionary: translator-numbers-dictionary, Language: English
 ("C:\Users\Jeroen Frans\AppData\Local\Programs\MiKTeX 2.9\tex\latex\translator\
 translator-theorem-dictionary-English.dict"
 Dictionary: translator-theorem-dictionary, Language: English 
-) (presentation.nav) [1{C:/Users/Jeroen Frans/AppData/Local/MiKTeX/2.9/pdftex/c
-onfig/pdftex.map}
+) (presentation.nav)
+<Hedera_logo.png, id=20, 57.21375pt x 57.21375pt>
+File: Hedera_logo.png Graphic file (type png)
+<use Hedera_logo.png>
+Package pdftex.def Info: Hedera_logo.png  used on input line 20.
+(pdftex.def)             Requested size: 39.83545pt x 39.83368pt.
+ [1{C:/Users/Jeroen Frans/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
 
-]
+ <./Hedera_logo.png>]
 LaTeX Font Info:    Try loading font information for OMS+cmss on input line 29.
 
 LaTeX Font Info:    No file OMScmss.fd. on input line 29.
@@ -1266,6 +1271,10 @@ LaTeX Font Warning: Font shape `OMS/cmss/m/n' undefined
 (Font)              using `OMS/cmsy/m/n' instead
 (Font)              for symbol `textbullet' on input line 29.
 
+File: Hedera_logo.png Graphic file (type png)
+<use Hedera_logo.png>
+Package pdftex.def Info: Hedera_logo.png  used on input line 29.
+(pdftex.def)             Requested size: 39.83545pt x 39.83368pt.
 [2
 
 ]
@@ -1291,10 +1300,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 17092 strings out of 493305
- 329644 string characters out of 3126755
- 394539 words of memory out of 3000000
- 20266 multiletter control sequences out of 15000+200000
+ 17099 strings out of 493305
+ 329761 string characters out of 3126755
+ 394573 words of memory out of 3000000
+ 20271 multiletter control sequences out of 15000+200000
  5709 words of font info for 21 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,19n,56p,801b,764s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1304,9 +1313,9 @@ fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Users/Jeroen Frans/AppData/Local/
 Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Users/Jeroen F
 rans/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pf
 b>
-Output written on presentation.pdf (2 pages, 39777 bytes).
+Output written on presentation.pdf (2 pages, 45670 bytes).
 PDF statistics:
- 55 PDF objects out of 1000 (max. 8388607)
+ 56 PDF objects out of 1000 (max. 8388607)
  6 named destinations out of 1000 (max. 500000)
- 57 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 62 words of extra memory for PDF output out of 10000 (max. 10000000)
 
