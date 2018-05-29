@@ -1,2 +1,4 @@
-data <- data("AirPassengers")
-str(data)
+data("AirPassengers")
+AP <- AirPassengers
+
+#This is where it goes wrong
