@@ -1,4 +1,2 @@
-data("AirPassengers")
-AP <- AirPassengers
-
-#This is where it goes wrong
+data <- data("AirPassengers")
+str(data)
