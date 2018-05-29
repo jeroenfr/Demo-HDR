@@ -6,6 +6,7 @@
 \usepackage{amsfonts}
 \usepackage{amssymb}
 \usepackage{graphicx}
+\usepackage{animate}
 \usepackage{textpos}
 \author{Jeroen}
 \title{Git with a GUI}
@@ -100,7 +101,20 @@ In CLI $\rightarrow$ git add [file]
 
 \subsection{branching}
 \begin{frame}{Branches}
-Het is mogelijk om parallel meerdere stukken code te ontwikkelen.
+Het is mogelijk om parallel meerdere stukken code te ontwikkelen. Hiervoor moet je een 'kopie' van je code maken van waaruit je verder kan ontwikkelen.\\
+
+\begin{itemize}
+\item Creëer een branch
+\item Probeer naam inhoudelijk overeen te laten stemmen met doel
+\item Als de ontwikkeling klaar is, laat je deze branch terug samenkomen met de hoofdtak = \textit{merging}
+\item Hierdoor kunnen mogelijk conflicterende bestanden ontstaan
+\end{itemize}
+\end{frame}
+
+\begin{frame}{Merging}
+Als je twee branches samenvoegt, gaat git de verschillen tussen de twee branches zoeken. \\
+
+\animategraphics[loop,controls,width=200pt]{30}{merge-}{0}{144}
 \end{frame}
 
 
