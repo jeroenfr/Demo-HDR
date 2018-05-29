@@ -12,3 +12,15 @@ presentation\.log
 presentation\.pdf
 
 presentation\.synctex\.gz
+
+in_case_of_fire\.png
+
+git_staging_commit\.png
+
+*.nav
+
+*.aux
+
+*.out
+
+*.toc

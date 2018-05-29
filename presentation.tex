@@ -82,11 +82,26 @@ Alternatief kan een \textbf{GUI} gebruikt worden:
 \subsection{Staging \& Commiting}
 \begin{frame}{Staging}
 Git gaat een map op je computer volgen en tracken wat er gewijzigd wordt. Het doet dit echter enkel voor bestanden die jij vastlegt.\\
-
-Dit klaarzetten om te 'tracken' heet \textbf{staging}. Het alternatief is een bestand in de map negeren door het in het '\textit{.gitignore}' bestand te zetten.
+\vspace{8pt}
+Dit klaarzetten om veranderingen op te slaan heet \textbf{staging}. Het alternatief is een bestand tijdelijk niet klaar te zetten of het volledig negeren door het in het '\textit{.gitignore}' bestand te zetten.\\
+\vspace{8pt}
+In CLI $\rightarrow$ git add [file]
 \end{frame}
 
+\begin{frame}{Commits}
+\begin{itemize}
+\item Eenmaal staged $\Rightarrow$ klaar voor commit
+\item Persistent wegschrijven
+\item Krijgt hash toegewezen (belangrijk in CLI)
+\end{itemize}
+\center
+\includegraphics[scale=.25]{git_staging_commit.png}
+\end{frame}
 
+\subsection{branching}
+\begin{frame}{Branches}
+Het is mogelijk om parallel meerdere stukken code te ontwikkelen.
+\end{frame}
 
 
 \end{document}
