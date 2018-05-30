@@ -1,3 +1,9 @@
-data <- data("AirPassengers")
-#Change in between
-str(data)
+install.packages("tidyverse")
+if(!require("tidyverse")){
+  installed.packages("tidyverse")
+  require(tidyverse)
+}
+if(!require("shiny")){
+  install.packages("shiny")
+  require("shiny")
+}
